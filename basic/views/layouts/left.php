@@ -1,5 +1,6 @@
 <?php
 use yii\bootstrap\Nav;
+//
 
 ?>
 <aside class="left-side sidebar-offcanvas">
